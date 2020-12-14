@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 :zap: **Recent Activity**
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/qndev/uml-diagrams/pull/1) in [qndev/uml-diagrams](https://github.com/qndev/uml-diagrams)
+2. 💪 Opened PR [#1](https://github.com/qndev/uml-diagrams/pull/1) in [qndev/uml-diagrams](https://github.com/qndev/uml-diagrams)
 <!--END_SECTION:activity-->
 
 📕 **Latest Blog Posts**
