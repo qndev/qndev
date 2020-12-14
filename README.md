@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+:zap: **Recent Activity**
+<!--START_SECTION:activity-->
+
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [Mô tả thiết kế phần mềm](https://qndev.github.io/software%20engineering/2020/09/08/sdd/)
