@@ -17,4 +17,9 @@ Here are some ideas to get you started:
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Mô tả thiết kế phần mềm](https://qndev.github.io/software%20engineering/2020/09/08/sdd/)
+- [Đặc tả yêu cầu phần mềm](https://qndev.github.io/software%20engineering/2020/09/07/srs/)
+- [Hệ điều hành](https://qndev.github.io/my%20notes/2020/07/01/os/)
+- [Danh sách liên kết đơn dùng con trỏ](https://qndev.github.io/my%20notes/2019/12/21/pointer/)
+- [Transposes, permutations, spaces R^n [5]](https://qndev.github.io/mathematics/2019/12/08/transposes-permutations-spaces-R-n/)
 <!-- BLOG-POST-LIST:END -->
