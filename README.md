@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**qndev/qndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,13 +8,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 :zap: **Recent Activity**
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/qndev/uml-diagrams/pull/1) in [qndev/uml-diagrams](https://github.com/qndev/uml-diagrams)
 2. 💪 Opened PR [#1](https://github.com/qndev/uml-diagrams/pull/1) in [qndev/uml-diagrams](https://github.com/qndev/uml-diagrams)
 <!--END_SECTION:activity-->
+
+![Qndev's github stats](https://github-readme-stats.vercel.app/api?username=qndev&count_private=true&show_icons=true&theme=flag-india)
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
