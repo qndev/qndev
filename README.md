@@ -1,6 +1,6 @@
 ### Hi there, I'm Quang 👋
 
-- 🔭 I’m currently working as a freelancer
+- 🔭 I’m currently working at USOL VIETNAM Co.,Ltd.
 - 🌱 I’m currently learning C#, .NET
 - 📫 How to reach me: [quangnd.hust@gmail.com](mailto:quangnd.hust@gmail.com)
 
