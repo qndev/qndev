@@ -38,12 +38,3 @@
 - [Danh sách liên kết đơn dùng con trỏ](https://qndev.github.io/my%20notes/2019/12/21/pointer/)
 - [Transposes, permutations, spaces R^n [5]](https://qndev.github.io/mathematics/2019/12/08/transposes-permutations-spaces-R-n/)
 <!-- BLOG-POST-LIST:END -->
-
-:bar_chart: **Github Stats & Most Used Languages**
-
-<div>
-    <a href="#">
-        <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=qndev&count_private=true&theme=flag-india&show_icons=true" alt="Github Stats" />
-        <img align="left" style="margin-left: 0.3em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qndev&layout=compact&theme=flag-india&langs_count=8" alt="Most Used Languages" />
-    <a/>
-</div>
