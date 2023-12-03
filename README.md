@@ -1,6 +1,6 @@
 ### Hi there, I'm Quang 👋
 
-- 🔭 I’m currently working at VMO Holdings
+- 🔭 I’m currently working at Veriserve
 - 🌱 I’m currently learning C#, .NET
 - 📫 How to reach me: [quangnd.hust@gmail.com](mailto:quangnd.hust@gmail.com)
 
